@@ -1,4 +1,3 @@
-#
 
 > [!WARNING]
 > **All information and code provided by this organization are intended strictly for `educational purposes`.**<br>

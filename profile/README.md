@@ -1,12 +1,3 @@
-<div align="center">
- <pre>                                                        
-▄████▄ ██████ ▄████▄ ██▄  ▄██   ██████ ██████ ▄████▄ ██▄  ▄██ 
-██▄▄██   ██   ██  ██ ██ ▀▀ ██     ██   ██▄▄   ██▄▄██ ██ ▀▀ ██ 
-██  ██   ██   ▀████▀ ██    ██     ██   ██▄▄▄▄ ██  ██ ██    ██ 
-  
- </pre>
-</div>
-
 #
 
 > [!WARNING]
@@ -14,3 +5,9 @@
 > **This organization assumes no responsibility for any direct or indirect damages resulting from the misuse of this material.**<br>
 > **Any actions taken based on this content are performed entirely at `your own risk and responsibility`.**
 
+#
+
+<div align="center">
+
+**@AtomTM**
+</div>
